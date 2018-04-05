@@ -12,7 +12,7 @@ type Record struct {
 	Bolge string
 	Il    string
 	Ilce  string
-	// High, Low, Close
+	
 }
 
 func main() {
