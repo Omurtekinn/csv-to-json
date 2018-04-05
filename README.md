@@ -1,3 +1,3 @@
 # Csv to Json Converter
 
-Read CSV from stdin, Writer JSON to stdout. 
+Read CSV from stdin, Writer JSON to json file.
